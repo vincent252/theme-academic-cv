@@ -49,10 +49,10 @@ interests:
   - natural language processing
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S Computer Science
+    institution: University of Michigan
+    date_start: 2023-08-27
+    date_end: 2025-05-05
     summary: |
       GPA: 3.8/4.0
 
@@ -60,10 +60,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Eng
+    institution: Shanghai Jiao Tong University
+    date_start: 2021-09-01
+    date_end: 2025-08-05
     summary: |
       GPA: 3.4/4.0
       
