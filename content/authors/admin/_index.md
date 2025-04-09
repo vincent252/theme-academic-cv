@@ -47,9 +47,8 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - multimodal learning
+  - natural language processing
 
 education:
   - area: PhD Artificial Intelligence
