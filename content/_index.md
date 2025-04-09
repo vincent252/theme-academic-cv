@@ -29,66 +29,28 @@ sections:
           position: center
           parallax: false
 
-  # New Projects Section
   - block: markdown
     content:
-      title: "🔬 Research Projects"
-      subtitle: "Selected initiatives and contributions"
-      text: "Below are highlights of my research work across multiple domains."
-    design:
-      columns: '1'
-      spacing:
-        padding: ["20px", "0", "10px", "0"]
+      title: "Projects"
+      subtitle: "Research & Development"
+      text: |
+        ### **Enhancing Visual Detail Perception in Vision-Language Models**  
+        - Aimed to improve fine-grained alignment between language and vision in models like CLIP by enhancing perception of visual details.  
+        - Designed a novel plug-and-play spectral layer using frequency analysis to diversify image patch embeddings.  
+        - Achieved a **12.6% accuracy boost** on the MMVP benchmark and surpassed diffusion-based methods by **7.4%**.  
 
-  - block: features
-    content:
-      items:
-        - name: "Enhancing Visual Detail Perception in VLMs"
-          description: |
-            - Designed spectral layer for CLIP vision encoder  
-            - 12.6% accuracy boost on MMVP benchmark  
-            - 7.4% improvement over diffusion methods
-          icon: eye
-          icon_pack: fas
-          image: project-vlm.jpg
-        - name: "Explaining Neural Network Decisions in Go"
-          description: |
-            - Game-theoretical framework for AI interpretation  
-            - Python algorithms for pattern extraction  
-            - Discovered novel strategic patterns
-          icon: gamepad
-          icon_pack: fas
-          image: project-go.jpg
-        - name: "Course Assignment Algorithm"
-          description: |
-            - Hungarian-inspired matching system  
-            - Optimized student preferences  
-            - 'Excellent' rating at SJTU
-          icon: algorithm
-          icon_pack: fas
-          image: project-matching.jpg
-    design:
-      columns: '3'
-      spacing:
-        padding: ["10px", "0", "20px", "0"]
-      background:
-        color: "rgba(240, 242, 246, 0.3)"
-      card:
-        css_class: "shadow-sm"
-        css_style: "border-radius: 8px;"
+        ### **Exploring How a Neural Network Plays the Go Game**  
+        - Developed a game-theoretical framework to explain AI decision-making in Go.  
+        - Identified crucial stone shapes influencing KataGo’s predictions.  
+        - Discovered novel strategic patterns beyond traditional human knowledge.  
 
-  # Optional: Publications section (from original)
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+        ### **Research on Algorithms for Course Project Assigning**  
+
+        - Designed a constraint-based matching algorithm inspired by the Hungarian algorithm.  
+        - Optimized assignments to maximize student preferences.  
+        - Received an **‘Excellent’** rating in SJTU’s Research Program.  
     design:
-      view: article-grid
-      columns: 2
+      columns: "1"  # Single column layout
       spacing:
-        padding: ["30px", "0", "20px", "0"]
+        padding: ["30px", "0", "30px", "0"]
 ---
