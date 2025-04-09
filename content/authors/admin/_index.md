@@ -1,8 +1,11 @@
 ---
+# Display name
+title: Huijie Tang
 
+# Name pronunciation (optional)
 
 # Full name (for SEO)
-first_name: Huijie Tang
+first_name: Huijie 
 last_name: Tang
 
 # Status emoji
