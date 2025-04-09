@@ -60,7 +60,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.Eng
+  - area: B.Eng Electical and Computer Engineering
     institution: Shanghai Jiao Tong University
     date_start: 2021-09-01
     date_end: 2025-08-05
