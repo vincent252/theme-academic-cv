@@ -34,7 +34,10 @@ sections:
       title: '<span id="projects">Projects</span>'
       subtitle: "Research & Development"
       text: |
-        ### <img src="pic1.jpg" style="width:18px; vertical-align:middle; margin-right:6px;">**Enhancing Visual Detail Perception in Vision-Language Models**  
+        ### <span style="display: inline-flex; align-items: center;">
+        <img src="pic1.jpg" style="width:30px; height:30px; margin-right:8px;">
+        <strong>Enhancing Visual Detail Perception in Vision-Language Models</strong>
+        </span>  
         - Aimed to improve fine-grained alignment between language and vision in models like CLIP by enhancing perception of visual details.  
         - Designed a novel plug-and-play spectral layer using frequency analysis to diversify image patch embeddings.  
         - Achieved a **12.6% accuracy boost** on the MMVP benchmark and surpassed diffusion-based methods by **7.4%**.  
