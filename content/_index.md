@@ -38,7 +38,7 @@ sections:
         - Aimed to improve fine-grained alignment between language and vision in vision-language models like CLIP by enhancing the model’s ability to perceive fine-grained visual details not captured through natural language supervision.
         - Designed and integrated a novel plug-and-play spectral layer utilizing frequency analysis into the CLIP vision encoder. This layer diversified image patch token embeddings, amplifying visual detail information to improve the model’s capacity for fine-grained visual recognition.
         - Initiated the use of frequency domain transformation in deep learning model embeddings to amplify subtle visual details.
-        - Achieved a 12.6% increase in CLIP model’s accuracy on the Multimodal Visual Patterns (MMVP) benchmark and surpassed diffusion-based approach by 7.4%, demonstrating a substantial improvement in visual detail perception and better alignment between language and vision modalities. 
+        - Achieved a **12.6%** increase in CLIP model’s accuracy on the Multimodal Visual Patterns (MMVP) benchmark and surpassed diffusion-based approach by **7.4%**, demonstrating a substantial improvement in visual detail perception and better alignment between language and vision modalities. 
      
         ### **Exploring How a Neural Network Plays the Go Game**  
         - Addressed the challenge of explaining AI decision-making in Go by identifying crucial stone shapes that significantly influence the KataGo value network’s predictions.
@@ -50,7 +50,7 @@ sections:
         - Assigned students to projects based on their preferences under specific constraints.
         - Designed a matching algorithm inspired by the Hungarian algorithm and implemented the algorithm in Python.
         - Optimized assignments to maximize the number of students matched to their top project choices.
-        - Achieved an ‘Excellent’ rating in the Participation in Research Program.
+        - Achieved an **Excellent** rating in the Participation in Research Program.
     design:
       columns: "1"  # Single column layout
       spacing:
