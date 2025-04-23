@@ -163,4 +163,4 @@ awards:
 
 ## About Me
 
-My name is Huijie Tang. I am a senior student majoring in computer science at the University of Michigan. His research interest lies in multimodal learning and natural language processing.
+My name is Huijie Tang. I am a senior student majoring in computer science at the University of Michigan. My research interest lies in multimodal learning and natural language processing.

@@ -34,17 +34,17 @@ sections:
       title: '<span id="projects">Projects</span>'
       subtitle: "Research & Development"
       text: |
-        ### **Enhancing Visual Detail Perception in Vision-Language Models**  
+        ### <img src="pic1.jpg" style="width:18px; vertical-align:middle; margin-right:6px;">**Enhancing Visual Detail Perception in Vision-Language Models**  
         - Aimed to improve fine-grained alignment between language and vision in models like CLIP by enhancing perception of visual details.  
         - Designed a novel plug-and-play spectral layer using frequency analysis to diversify image patch embeddings.  
         - Achieved a **12.6% accuracy boost** on the MMVP benchmark and surpassed diffusion-based methods by **7.4%**.  
 
-        ### **Exploring How a Neural Network Plays the Go Game**  
+        ### <img src="pic2.jpg" style="width:18px; vertical-align:middle; margin-right:6px;">**Exploring How a Neural Network Plays the Go Game**  
         - Developed a game-theoretical framework to explain AI decision-making in Go.  
         - Identified crucial stone shapes influencing KataGo’s predictions.  
         - Discovered novel strategic patterns beyond traditional human knowledge.  
 
-        ### **Research on Algorithms for Course Project Assigning**  
+        ### <img src="pic3.jpg" style="width:18px; vertical-align:middle; margin-right:6px;">**Research on Algorithms for Course Project Assigning**  
 
         - Designed a constraint-based matching algorithm inspired by the Hungarian algorithm.  
         - Optimized assignments to maximize student preferences.  
