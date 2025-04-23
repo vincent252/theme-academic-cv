@@ -31,7 +31,7 @@ sections:
 
   - block: markdown
     content:
-      title: "Projects"
+      title: '<span id="projects">Projects</span>'
       subtitle: "Research & Development"
       text: |
         ### **Enhancing Visual Detail Perception in Vision-Language Models**  
